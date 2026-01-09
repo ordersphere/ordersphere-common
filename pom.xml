@@ -9,6 +9,7 @@
     <modules>
         <module>ordersphere-bom</module>
         <module>ordersphere-observability</module>
+        <module>ordersphere-core</module>
     </modules>
 
     <properties>
