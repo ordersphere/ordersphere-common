@@ -56,6 +56,11 @@
                 <artifactId>ordersphere-core</artifactId>
                 <version>1.0</version>
             </dependency>
+            <dependency>
+                <groupId>com.ordersphere</groupId>
+                <artifactId>ordersphere-observability</artifactId>
+                <version>1.0</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
